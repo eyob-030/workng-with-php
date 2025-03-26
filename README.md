@@ -1,2 +1,2 @@
-# workng-with-php
+# working-with-php
 data fetch from data base (php my admin) integrated with html
